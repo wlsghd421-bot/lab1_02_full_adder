@@ -1,0 +1,8 @@
+0.7
+2020.2
+Jun 16 2026
+11:10:11
+C:/Users/wlsgh/lab1_02_full_adder/full_adder.sim/sim_1/behav/xsim/glbl.v,1773749341,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/wlsgh/lab1_02_full_adder/sim/tb_full_adder.sv,1789291460,systemVerilog,,,,tb_full_adder,,uvm,../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/wlsgh/lab1_02_full_adder/src/full_adder.v,1789291741,verilog,,C:/Users/wlsgh/lab1_02_full_adder/src/half_adder.v,,full_adder,,uvm,../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/wlsgh/lab1_02_full_adder/src/half_adder.v,1789291377,verilog,,,,half_adder,,uvm,../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
